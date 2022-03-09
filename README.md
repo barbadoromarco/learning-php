@@ -1,1 +1,3 @@
-# learning-php
+# Learning PHP
+
+Documenting my PHP journey 😺
